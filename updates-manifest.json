@@ -1,0 +1,14 @@
+{
+  "_lisezMoi": "Ce fichier contrôle les notifications affichées dans TRIGONE. Modifiez une valeur ci-dessous et republiez sur GitHub : chaque utilisateur verra la notification à sa prochaine ouverture de l'application avec une connexion internet. Pour republier une notification déjà vue, augmentez simplement le numéro de version (ex: passer de 1 à 2). tauxChangeVersion, ikVersion et appCodeVersion sont OBLIGATOIRES pour le missionnaire (pas de bouton pour passer outre). appMessageVersion est un simple message d'information, non bloquant.",
+  "tauxChangeVersion": 0,
+  "tauxChangeMessage": "De nouveaux taux de change internationaux sont disponibles.",
+  "tauxChangeFile": "./taux_change_officiel.json",
+  "ikVersion": 0,
+  "ikMessage": "De nouveaux taux d'indemnité kilométrique sont disponibles.",
+  "ikFile": "./ik_officiel.json",
+  "appCodeVersion": 51,
+  "appCodeMessage": "Correction du PDF Remboursement : le total inclut désormais les montants manuels (train, métro...), et affiche départ + retour de mission.",
+  "appMessageVersion": 0,
+  "appMessage": "Une information importante vous concerne.",
+  "appMessageDetail": ""
+}
